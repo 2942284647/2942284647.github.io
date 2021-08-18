@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://yoursite.com/video/weibo/course-1/weibo-1/</loc>
+    
+    <lastmod>2021-08-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/video/douyin/course-1/course-1/</loc>
+    
+    <lastmod>2021-08-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/video/weibo/course-2/wother-1/</loc>
+    
+    <lastmod>2021-08-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/%E5%85%A5%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81/</loc>
+    
+    <lastmod>2021-08-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/friends/index.html</loc>
+    
+    <lastmod>2021-08-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/%E5%85%B3%E4%BA%8E%E6%88%91/</loc>
+    
+    <lastmod>2021-08-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/about/index.html</loc>
+    
+    <lastmod>2021-08-15</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>http://yoursite.com/</loc>
+    <lastmod>2021-08-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>http://yoursite.com/tags/%E6%A0%87%E7%AD%BE1/</loc>
+    <lastmod>2021-08-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>http://yoursite.com/categories/video/</loc>
+    <lastmod>2021-08-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/video/weibo/</loc>
+    <lastmod>2021-08-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/video/weibo/course-1/</loc>
+    <lastmod>2021-08-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/video/weibo/course-2/</loc>
+    <lastmod>2021-08-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>

@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>DSZD</title>
+        <subtitle>Welcome to my blog.</subtitle>
+        <icon>http://yoursite.com/images/favicon.ico</icon>
+        <link>http://yoursite.com</link>
+        <author>
+          <name>阿嚏是谁0403</name>
+        </author>
+        <description>美食 / 配音 / 追剧</description>
+        <language>zh-CN</language>
+        <pubDate>Thu, 19 Aug 2021 00:14:49 +0800</pubDate>
+        <lastBuildDate>Thu, 19 Aug 2021 00:14:49 +0800</lastBuildDate>
+        <category term="关键词1" />
+        <category term="关键词2" />
+        <item>
+            <guid isPermalink="true">http://yoursite.com/video/douyin/course-1/course-1/</guid>
+            <title>course-1</title>
+            <link>http://yoursite.com/video/douyin/course-1/course-1/</link>
+            <pubDate>Thu, 19 Aug 2021 00:14:49 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://yoursite.com/video/weibo/course-2/wother-1/</guid>
+            <title>测试1</title>
+            <link>http://yoursite.com/video/weibo/course-2/wother-1/</link>
+            <category term="视频" scheme="http://yoursite.com/categories/video/" />
+            <category term="作品" scheme="http://yoursite.com/categories/video/weibo/" />
+            <category term="抖音视频" scheme="http://yoursite.com/categories/video/weibo/course-2/" />
+            <pubDate>Mon, 16 Aug 2021 18:04:15 +0800</pubDate>
+            <description><![CDATA[ &lt;iframe height=&#34;100&#34; width=&#34;100&#34; src=&#34;//player.bilibili.com/player.html?aid=762254857&amp;bvid=BV1Y64y1s7T1&amp;cid=389334646&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+&lt;hr&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://yoursite.com/video/weibo/course-1/weibo-1/</guid>
+            <title>微博视频1</title>
+            <link>http://yoursite.com/video/weibo/course-1/weibo-1/</link>
+            <category term="视频" scheme="http://yoursite.com/categories/video/" />
+            <category term="作品" scheme="http://yoursite.com/categories/video/weibo/" />
+            <category term="微博视频" scheme="http://yoursite.com/categories/video/weibo/course-1/" />
+            <pubDate>Sun, 15 Aug 2021 19:34:23 +0800</pubDate>
+            <description><![CDATA[ &lt;h4&gt;&lt;div class=&#34;text&#34;&gt;你就是我眼中的喜出望外&lt;/div&gt;&lt;/h4&gt;
+&lt;iframe height=&#34;460&#34; width=&#34;680&#34; src=&#34;//player.bilibili.com/player.html?aid=762254857&amp;bvid=BV1Y64y1s7T1&amp;cid=389334646&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+&lt;hr&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://yoursite.com/%E5%85%A5%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81/</guid>
+            <title>入群二维码</title>
+            <link>http://yoursite.com/%E5%85%A5%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81/</link>
+            <pubDate>Sun, 15 Aug 2021 17:01:48 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;入群二维码&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#入群二维码&#34;&gt;#&lt;/a&gt; &lt;strong&gt;&lt;span class=&#34;red&#34;&gt;入&lt;/span&gt;&lt;span class=&#34;yellow&#34;&gt;群&lt;/span&gt;&lt;span class=&#34;green&#34;&gt;二&lt;/span&gt;&lt;span class=&#34;aqua&#34;&gt;维&lt;/span&gt;&lt;span class=&#34;blue&#34;&gt;码&lt;/span&gt;&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://tva1.sinaimg.cn/large/008neO4hly8gthuxppcegj30u01rl422.jpg&#34; alt&gt;&lt;/p&gt;
+&lt;hr&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://yoursite.com/%E5%85%B3%E4%BA%8E%E6%88%91/</guid>
+            <title>关于阿嚏</title>
+            <link>http://yoursite.com/%E5%85%B3%E4%BA%8E%E6%88%91/</link>
+            <category term="标签1" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE1/" />
+            <pubDate>Fri, 13 Aug 2021 16:46:28 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;主播：阿嚏&lt;br&gt;
+爱好：美食 / 配音 / 追剧&lt;br&gt;
+直播内容：百变声线 / 晚安故事 / 爆梗惊喜 / 有个测试 /“黑幕” 游戏 / 间歇性吃播&lt;br&gt;
+自我介绍：阿嚏是谁&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;阿嚏可以是萌妹，还可以是姐姐，更可以是小孩子。&lt;br&gt;
+声线百变的她，会在直播间给大家讲故事，玩游戏，更有间歇性吃播。&lt;br&gt;
+欢迎大家来到阿嚏的直播间噢～&lt;/p&gt;
+&lt;hr&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
