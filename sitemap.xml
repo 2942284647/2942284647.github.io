@@ -88,13 +88,6 @@
   </url>
   
   <url>
-    <loc>http://atishishui0403.cn/tags/%E6%88%91%E7%9A%84%E8%AF%97/</loc>
-    <lastmod>2021-08-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://atishishui0403.cn/tags/%E5%BE%AE%E5%8D%9A%E8%A7%86%E9%A2%91/</loc>
     <lastmod>2021-08-19</lastmod>
     <changefreq>daily</changefreq>
@@ -108,14 +101,14 @@
     <priority>0.6</priority>
   </url>
   
-
-  
   <url>
-    <loc>http://atishishui0403.cn/categories/poetry/</loc>
+    <loc>http://atishishui0403.cn/tags/%E6%88%91%E7%9A%84%E8%AF%97/</loc>
     <lastmod>2021-08-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
+  
+
   
   <url>
     <loc>http://atishishui0403.cn/categories/video/</loc>
@@ -125,7 +118,7 @@
   </url>
   
   <url>
-    <loc>http://atishishui0403.cn/categories/poetry/mypoetry/</loc>
+    <loc>http://atishishui0403.cn/categories/poetry/</loc>
     <lastmod>2021-08-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -139,14 +132,7 @@
   </url>
   
   <url>
-    <loc>http://atishishui0403.cn/categories/poetry/mypoetry/course-1/</loc>
-    <lastmod>2021-08-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://atishishui0403.cn/categories/poetry/mypoetry/course-2/</loc>
+    <loc>http://atishishui0403.cn/categories/poetry/mypoetry/</loc>
     <lastmod>2021-08-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -161,6 +147,20 @@
   
   <url>
     <loc>http://atishishui0403.cn/categories/video/weibo/course-2/</loc>
+    <lastmod>2021-08-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://atishishui0403.cn/categories/poetry/mypoetry/course-1/</loc>
+    <lastmod>2021-08-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://atishishui0403.cn/categories/poetry/mypoetry/course-2/</loc>
     <lastmod>2021-08-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
