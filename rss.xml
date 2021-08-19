@@ -20,7 +20,8 @@
             <link>http://yoursite.com/poetry/mypoetry/course-1/poetry-2/</link>
             <category term="诗歌" scheme="http://yoursite.com/categories/poetry/" />
             <category term="诗·歌" scheme="http://yoursite.com/categories/poetry/mypoetry/" />
-            <category term="诗" scheme="http://yoursite.com/categories/poetry/mypoetry/course-1/" />
+            <category term="1.诗" scheme="http://yoursite.com/categories/poetry/mypoetry/course-1/" />
+            <category term="我的诗" scheme="http://yoursite.com/tags/%E6%88%91%E7%9A%84%E8%AF%97/" />
             <pubDate>Thu, 19 Aug 2021 02:05:12 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;岁月就像疯狗&lt;br&gt;
 带你进沟&lt;br&gt;
@@ -34,7 +35,7 @@
             <link>http://yoursite.com/poetry/mypoetry/course-2/song-1/</link>
             <category term="诗歌" scheme="http://yoursite.com/categories/poetry/" />
             <category term="诗·歌" scheme="http://yoursite.com/categories/poetry/mypoetry/" />
-            <category term="歌" scheme="http://yoursite.com/categories/poetry/mypoetry/course-2/" />
+            <category term="2.歌" scheme="http://yoursite.com/categories/poetry/mypoetry/course-2/" />
             <pubDate>Thu, 19 Aug 2021 01:41:49 +0800</pubDate>
             <description><![CDATA[ &lt;iframe frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=&#34;330&#34; height=&#34;86&#34; src=&#34;//music.163.com/outchain/player?type=2&amp;id=1870700736&amp;auto=1&amp;height=66&#34;&gt;&lt;/iframe&gt;
 &lt;hr&gt;
@@ -46,7 +47,8 @@
             <link>http://yoursite.com/poetry/mypoetry/course-1/poetry-1/</link>
             <category term="诗歌" scheme="http://yoursite.com/categories/poetry/" />
             <category term="诗·歌" scheme="http://yoursite.com/categories/poetry/mypoetry/" />
-            <category term="诗" scheme="http://yoursite.com/categories/poetry/mypoetry/course-1/" />
+            <category term="1.诗" scheme="http://yoursite.com/categories/poetry/mypoetry/course-1/" />
+            <category term="我的诗" scheme="http://yoursite.com/tags/%E6%88%91%E7%9A%84%E8%AF%97/" />
             <pubDate>Thu, 19 Aug 2021 00:14:49 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;你摔了几次跤&lt;br&gt;
 你懂了几次事&lt;br&gt;
@@ -57,13 +59,27 @@
         </item>
         <item>
             <guid isPermalink="true">http://yoursite.com/video/weibo/course-2/douyin-1/</guid>
-            <title>测试1</title>
+            <title>抖音视频1</title>
             <link>http://yoursite.com/video/weibo/course-2/douyin-1/</link>
             <category term="视频" scheme="http://yoursite.com/categories/video/" />
             <category term="作品" scheme="http://yoursite.com/categories/video/weibo/" />
             <category term="抖音视频" scheme="http://yoursite.com/categories/video/weibo/course-2/" />
+            <category term="抖音视频" scheme="http://yoursite.com/tags/%E6%8A%96%E9%9F%B3%E8%A7%86%E9%A2%91/" />
             <pubDate>Mon, 16 Aug 2021 18:04:15 +0800</pubDate>
             <description><![CDATA[ &lt;iframe height=&#34;300&#34; width=&#34;500&#34; src=&#34;//player.bilibili.com/player.html?aid=462399162&amp;bvid=BV1kL411J7Ta&amp;cid=392061251&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+&lt;hr&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://yoursite.com/video/weibo/course-2/douyin-2/</guid>
+            <title>抖音视频2</title>
+            <link>http://yoursite.com/video/weibo/course-2/douyin-2/</link>
+            <category term="视频" scheme="http://yoursite.com/categories/video/" />
+            <category term="作品" scheme="http://yoursite.com/categories/video/weibo/" />
+            <category term="抖音视频" scheme="http://yoursite.com/categories/video/weibo/course-2/" />
+            <category term="抖音视频" scheme="http://yoursite.com/tags/%E6%8A%96%E9%9F%B3%E8%A7%86%E9%A2%91/" />
+            <pubDate>Mon, 16 Aug 2021 18:04:15 +0800</pubDate>
+            <description><![CDATA[ &lt;iframe height=&#34;300&#34; width=&#34;500&#34; src=&#34;//player.bilibili.com/player.html?aid=847433944&amp;bvid=BV12L4y1e7tx&amp;cid=392083388&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
 &lt;hr&gt;
  ]]></description>
         </item>
@@ -74,9 +90,10 @@
             <category term="视频" scheme="http://yoursite.com/categories/video/" />
             <category term="作品" scheme="http://yoursite.com/categories/video/weibo/" />
             <category term="微博视频" scheme="http://yoursite.com/categories/video/weibo/course-1/" />
+            <category term="微博视频" scheme="http://yoursite.com/tags/%E5%BE%AE%E5%8D%9A%E8%A7%86%E9%A2%91/" />
             <pubDate>Sun, 15 Aug 2021 19:34:23 +0800</pubDate>
             <description><![CDATA[ &lt;h4&gt;&lt;div class=&#34;text&#34;&gt;你就是我眼中的喜出望外&lt;/div&gt;&lt;/h4&gt;
-&lt;iframe height=&#34;460&#34; width=&#34;680&#34; src=&#34;//player.bilibili.com/player.html?aid=762254857&amp;bvid=BV1Y64y1s7T1&amp;cid=389334646&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+&lt;iframe height=&#34;300&#34; width=&#34;500&#34; src=&#34;//player.bilibili.com/player.html?aid=974901675&amp;bvid=BV1k44y1y7hr&amp;cid=392083233&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
 &lt;hr&gt;
  ]]></description>
         </item>
@@ -94,7 +111,7 @@
             <guid isPermalink="true">http://yoursite.com/%E5%85%B3%E4%BA%8E%E6%88%91/</guid>
             <title>关于阿嚏</title>
             <link>http://yoursite.com/%E5%85%B3%E4%BA%8E%E6%88%91/</link>
-            <category term="标签1" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE1/" />
+            <category term="关于阿嚏" scheme="http://yoursite.com/tags/%E5%85%B3%E4%BA%8E%E9%98%BF%E5%9A%8F/" />
             <pubDate>Fri, 13 Aug 2021 16:46:28 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;主播：阿嚏&lt;br&gt;
 爱好：美食 / 配音 / 追剧&lt;br&gt;
@@ -104,6 +121,9 @@
 &lt;p&gt;阿嚏可以是萌妹，还可以是姐姐，更可以是小孩子。&lt;br&gt;
 声线百变的她，会在直播间给大家讲故事，玩游戏，更有间歇性吃播。&lt;br&gt;
 欢迎大家来到阿嚏的直播间噢～&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;微博：阿嚏是谁 0403&lt;br&gt;
+ 抖音：阿嚏是谁（aaaati0403）&lt;/p&gt;
 &lt;hr&gt;
  ]]></description>
         </item>

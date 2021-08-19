@@ -22,7 +22,8 @@
 </content>
         <category term="诗歌" scheme="http://yoursite.com/categories/poetry/" />
         <category term="诗·歌" scheme="http://yoursite.com/categories/poetry/mypoetry/" />
-        <category term="诗" scheme="http://yoursite.com/categories/poetry/mypoetry/course-1/" />
+        <category term="1.诗" scheme="http://yoursite.com/categories/poetry/mypoetry/course-1/" />
+        <category term="我的诗" scheme="http://yoursite.com/tags/%E6%88%91%E7%9A%84%E8%AF%97/" />
         <updated>2021-08-18T18:05:12.000Z</updated>
     </entry>
     <entry>
@@ -34,7 +35,7 @@
 </content>
         <category term="诗歌" scheme="http://yoursite.com/categories/poetry/" />
         <category term="诗·歌" scheme="http://yoursite.com/categories/poetry/mypoetry/" />
-        <category term="歌" scheme="http://yoursite.com/categories/poetry/mypoetry/course-2/" />
+        <category term="2.歌" scheme="http://yoursite.com/categories/poetry/mypoetry/course-2/" />
         <updated>2021-08-18T17:41:49.000Z</updated>
     </entry>
     <entry>
@@ -49,12 +50,13 @@
 </content>
         <category term="诗歌" scheme="http://yoursite.com/categories/poetry/" />
         <category term="诗·歌" scheme="http://yoursite.com/categories/poetry/mypoetry/" />
-        <category term="诗" scheme="http://yoursite.com/categories/poetry/mypoetry/course-1/" />
+        <category term="1.诗" scheme="http://yoursite.com/categories/poetry/mypoetry/course-1/" />
+        <category term="我的诗" scheme="http://yoursite.com/tags/%E6%88%91%E7%9A%84%E8%AF%97/" />
         <updated>2021-08-18T16:14:49.000Z</updated>
     </entry>
     <entry>
         <id>http://yoursite.com/video/weibo/course-2/douyin-1/</id>
-        <title>测试1</title>
+        <title>抖音视频1</title>
         <link rel="alternate" href="http://yoursite.com/video/weibo/course-2/douyin-1/"/>
         <content type="html">&lt;iframe height=&#34;300&#34; width=&#34;500&#34; src=&#34;//player.bilibili.com/player.html?aid=462399162&amp;bvid=BV1kL411J7Ta&amp;cid=392061251&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
 &lt;hr&gt;
@@ -62,6 +64,20 @@
         <category term="视频" scheme="http://yoursite.com/categories/video/" />
         <category term="作品" scheme="http://yoursite.com/categories/video/weibo/" />
         <category term="抖音视频" scheme="http://yoursite.com/categories/video/weibo/course-2/" />
+        <category term="抖音视频" scheme="http://yoursite.com/tags/%E6%8A%96%E9%9F%B3%E8%A7%86%E9%A2%91/" />
+        <updated>2021-08-16T10:04:15.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://yoursite.com/video/weibo/course-2/douyin-2/</id>
+        <title>抖音视频2</title>
+        <link rel="alternate" href="http://yoursite.com/video/weibo/course-2/douyin-2/"/>
+        <content type="html">&lt;iframe height=&#34;300&#34; width=&#34;500&#34; src=&#34;//player.bilibili.com/player.html?aid=847433944&amp;bvid=BV12L4y1e7tx&amp;cid=392083388&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+&lt;hr&gt;
+</content>
+        <category term="视频" scheme="http://yoursite.com/categories/video/" />
+        <category term="作品" scheme="http://yoursite.com/categories/video/weibo/" />
+        <category term="抖音视频" scheme="http://yoursite.com/categories/video/weibo/course-2/" />
+        <category term="抖音视频" scheme="http://yoursite.com/tags/%E6%8A%96%E9%9F%B3%E8%A7%86%E9%A2%91/" />
         <updated>2021-08-16T10:04:15.000Z</updated>
     </entry>
     <entry>
@@ -69,12 +85,13 @@
         <title>微博视频1</title>
         <link rel="alternate" href="http://yoursite.com/video/weibo/course-1/weibo-1/"/>
         <content type="html">&lt;h4&gt;&lt;div class=&#34;text&#34;&gt;你就是我眼中的喜出望外&lt;/div&gt;&lt;/h4&gt;
-&lt;iframe height=&#34;460&#34; width=&#34;680&#34; src=&#34;//player.bilibili.com/player.html?aid=762254857&amp;bvid=BV1Y64y1s7T1&amp;cid=389334646&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
+&lt;iframe height=&#34;300&#34; width=&#34;500&#34; src=&#34;//player.bilibili.com/player.html?aid=974901675&amp;bvid=BV1k44y1y7hr&amp;cid=392083233&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
 &lt;hr&gt;
 </content>
         <category term="视频" scheme="http://yoursite.com/categories/video/" />
         <category term="作品" scheme="http://yoursite.com/categories/video/weibo/" />
         <category term="微博视频" scheme="http://yoursite.com/categories/video/weibo/course-1/" />
+        <category term="微博视频" scheme="http://yoursite.com/tags/%E5%BE%AE%E5%8D%9A%E8%A7%86%E9%A2%91/" />
         <updated>2021-08-15T11:34:23.000Z</updated>
     </entry>
     <entry>
@@ -100,8 +117,11 @@
 声线百变的她，会在直播间给大家讲故事，玩游戏，更有间歇性吃播。&lt;br&gt;
 欢迎大家来到阿嚏的直播间噢～&lt;/p&gt;
 &lt;hr&gt;
+&lt;p&gt;微博：阿嚏是谁 0403&lt;br&gt;
+ 抖音：阿嚏是谁（aaaati0403）&lt;/p&gt;
+&lt;hr&gt;
 </content>
-        <category term="标签1" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE1/" />
+        <category term="关于阿嚏" scheme="http://yoursite.com/tags/%E5%85%B3%E4%BA%8E%E9%98%BF%E5%9A%8F/" />
         <updated>2021-08-13T08:46:28.000Z</updated>
     </entry>
 </feed>

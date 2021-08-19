@@ -2,42 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/video/weibo/course-2/douyin-1/</loc>
+    <loc>http://yoursite.com/poetry/mypoetry/course-1/poetry-2/</loc>
     
-    <lastmod>2021-08-18</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/%E5%85%A5%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81/</loc>
-    
-    <lastmod>2021-08-18</lastmod>
+    <lastmod>2021-08-19</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/poetry/mypoetry/course-1/poetry-1/</loc>
     
-    <lastmod>2021-08-18</lastmod>
+    <lastmod>2021-08-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/%E5%85%B3%E4%BA%8E%E6%88%91/</loc>
+    
+    <lastmod>2021-08-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/about/index.html</loc>
+    
+    <lastmod>2021-08-19</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/poetry/mypoetry/course-2/song-1/</loc>
     
-    <lastmod>2021-08-18</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/poetry/mypoetry/course-1/poetry-2/</loc>
-    
-    <lastmod>2021-08-18</lastmod>
+    <lastmod>2021-08-19</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/video/weibo/course-1/weibo-1/</loc>
+    
+    <lastmod>2021-08-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/video/weibo/course-2/douyin-2/</loc>
+    
+    <lastmod>2021-08-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/video/weibo/course-2/douyin-1/</loc>
+    
+    <lastmod>2021-08-19</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/%E5%85%A5%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81/</loc>
     
     <lastmod>2021-08-18</lastmod>
     
@@ -50,32 +71,39 @@
     
   </url>
   
-  <url>
-    <loc>http://yoursite.com/%E5%85%B3%E4%BA%8E%E6%88%91/</loc>
-    
-    <lastmod>2021-08-15</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/about/index.html</loc>
-    
-    <lastmod>2021-08-15</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>http://yoursite.com/</loc>
-    <lastmod>2021-08-18</lastmod>
+    <lastmod>2021-08-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://yoursite.com/tags/%E6%A0%87%E7%AD%BE1/</loc>
-    <lastmod>2021-08-18</lastmod>
+    <loc>http://yoursite.com/tags/%E5%85%B3%E4%BA%8E%E9%98%BF%E5%9A%8F/</loc>
+    <lastmod>2021-08-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/tags/%E6%88%91%E7%9A%84%E8%AF%97/</loc>
+    <lastmod>2021-08-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/tags/%E5%BE%AE%E5%8D%9A%E8%A7%86%E9%A2%91/</loc>
+    <lastmod>2021-08-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/tags/%E6%8A%96%E9%9F%B3%E8%A7%86%E9%A2%91/</loc>
+    <lastmod>2021-08-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -84,56 +112,56 @@
   
   <url>
     <loc>http://yoursite.com/categories/poetry/</loc>
-    <lastmod>2021-08-18</lastmod>
+    <lastmod>2021-08-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite.com/categories/video/</loc>
-    <lastmod>2021-08-18</lastmod>
+    <lastmod>2021-08-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite.com/categories/poetry/mypoetry/</loc>
-    <lastmod>2021-08-18</lastmod>
+    <lastmod>2021-08-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite.com/categories/video/weibo/</loc>
-    <lastmod>2021-08-18</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/categories/poetry/mypoetry/course-1/</loc>
-    <lastmod>2021-08-18</lastmod>
+    <lastmod>2021-08-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite.com/categories/poetry/mypoetry/course-2/</loc>
-    <lastmod>2021-08-18</lastmod>
+    <lastmod>2021-08-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/poetry/mypoetry/course-1/</loc>
+    <lastmod>2021-08-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite.com/categories/video/weibo/course-1/</loc>
-    <lastmod>2021-08-18</lastmod>
+    <lastmod>2021-08-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite.com/categories/video/weibo/course-2/</loc>
-    <lastmod>2021-08-18</lastmod>
+    <lastmod>2021-08-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

@@ -15,7 +15,8 @@
             "tags": [
                 "诗歌",
                 "诗·歌",
-                "诗"
+                "1.诗",
+                "我的诗"
             ]
         },
         {
@@ -27,7 +28,7 @@
             "tags": [
                 "诗歌",
                 "诗·歌",
-                "歌"
+                "2.歌"
             ]
         },
         {
@@ -39,18 +40,33 @@
             "tags": [
                 "诗歌",
                 "诗·歌",
-                "诗"
+                "1.诗",
+                "我的诗"
             ]
         },
         {
             "id": "http://yoursite.com/video/weibo/course-2/douyin-1/",
             "url": "http://yoursite.com/video/weibo/course-2/douyin-1/",
-            "title": "测试1",
+            "title": "抖音视频1",
             "date_published": "2021-08-16T10:04:15.000Z",
             "content_html": "<iframe height=\"300\" width=\"500\" src=\"//player.bilibili.com/player.html?aid=462399162&bvid=BV1kL411J7Ta&cid=392061251&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"> </iframe>\n<hr>\n",
             "tags": [
                 "视频",
                 "作品",
+                "抖音视频",
+                "抖音视频"
+            ]
+        },
+        {
+            "id": "http://yoursite.com/video/weibo/course-2/douyin-2/",
+            "url": "http://yoursite.com/video/weibo/course-2/douyin-2/",
+            "title": "抖音视频2",
+            "date_published": "2021-08-16T10:04:15.000Z",
+            "content_html": "<iframe height=\"300\" width=\"500\" src=\"//player.bilibili.com/player.html?aid=847433944&bvid=BV12L4y1e7tx&cid=392083388&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"> </iframe>\n<hr>\n",
+            "tags": [
+                "视频",
+                "作品",
+                "抖音视频",
                 "抖音视频"
             ]
         },
@@ -59,10 +75,11 @@
             "url": "http://yoursite.com/video/weibo/course-1/weibo-1/",
             "title": "微博视频1",
             "date_published": "2021-08-15T11:34:23.000Z",
-            "content_html": "<h4><div class=\"text\">你就是我眼中的喜出望外</div></h4>\n<iframe height=\"460\" width=\"680\" src=\"//player.bilibili.com/player.html?aid=762254857&bvid=BV1Y64y1s7T1&cid=389334646&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"> </iframe>\n<hr>\n",
+            "content_html": "<h4><div class=\"text\">你就是我眼中的喜出望外</div></h4>\n<iframe height=\"300\" width=\"500\" src=\"//player.bilibili.com/player.html?aid=974901675&bvid=BV1k44y1y7hr&cid=392083233&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"> </iframe>\n<hr>\n",
             "tags": [
                 "视频",
                 "作品",
+                "微博视频",
                 "微博视频"
             ]
         },
@@ -79,9 +96,9 @@
             "url": "http://yoursite.com/%E5%85%B3%E4%BA%8E%E6%88%91/",
             "title": "关于阿嚏",
             "date_published": "2021-08-13T08:46:28.000Z",
-            "content_html": "<p>主播：阿嚏<br>\n爱好：美食 / 配音 / 追剧<br>\n直播内容：百变声线 / 晚安故事 / 爆梗惊喜 / 有个测试 /“黑幕” 游戏 / 间歇性吃播<br>\n自我介绍：阿嚏是谁</p>\n<hr>\n<p>阿嚏可以是萌妹，还可以是姐姐，更可以是小孩子。<br>\n声线百变的她，会在直播间给大家讲故事，玩游戏，更有间歇性吃播。<br>\n欢迎大家来到阿嚏的直播间噢～</p>\n<hr>\n",
+            "content_html": "<p>主播：阿嚏<br>\n爱好：美食 / 配音 / 追剧<br>\n直播内容：百变声线 / 晚安故事 / 爆梗惊喜 / 有个测试 /“黑幕” 游戏 / 间歇性吃播<br>\n自我介绍：阿嚏是谁</p>\n<hr>\n<p>阿嚏可以是萌妹，还可以是姐姐，更可以是小孩子。<br>\n声线百变的她，会在直播间给大家讲故事，玩游戏，更有间歇性吃播。<br>\n欢迎大家来到阿嚏的直播间噢～</p>\n<hr>\n<p>微博：阿嚏是谁 0403<br>\n 抖音：阿嚏是谁（aaaati0403）</p>\n<hr>\n",
             "tags": [
-                "标签1"
+                "关于阿嚏"
             ]
         }
     ]
