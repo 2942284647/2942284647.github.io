@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://yoursite.com</id>
+    <id>http://atishishui0403.cn</id>
     <title></title>
     <subtitle>Welcome to my blog.</subtitle>
-    <icon>http://yoursite.com/images/favicon.ico</icon>
-    <link href="http://yoursite.com" />
+    <icon>http://atishishui0403.cn/images/favicon.ico</icon>
+    <link href="http://atishishui0403.cn" />
     <author>
       <name>阿嚏是谁0403</name>
     </author>
@@ -12,92 +12,92 @@
     <category term="关键词1" />
     <category term="关键词2" />
     <entry>
-        <id>http://yoursite.com/poetry/mypoetry/course-1/poetry-2/</id>
+        <id>http://atishishui0403.cn/poetry/mypoetry/course-1/poetry-2/</id>
         <title>阿嚏的小破诗二</title>
-        <link rel="alternate" href="http://yoursite.com/poetry/mypoetry/course-1/poetry-2/"/>
+        <link rel="alternate" href="http://atishishui0403.cn/poetry/mypoetry/course-1/poetry-2/"/>
         <content type="html">&lt;p&gt;岁月就像疯狗&lt;br&gt;
 带你进沟&lt;br&gt;
 再咬你一口接一口&lt;/p&gt;
 &lt;hr&gt;
 </content>
-        <category term="诗歌" scheme="http://yoursite.com/categories/poetry/" />
-        <category term="诗·歌" scheme="http://yoursite.com/categories/poetry/mypoetry/" />
-        <category term="1.诗" scheme="http://yoursite.com/categories/poetry/mypoetry/course-1/" />
-        <category term="我的诗" scheme="http://yoursite.com/tags/%E6%88%91%E7%9A%84%E8%AF%97/" />
+        <category term="诗歌" scheme="http://atishishui0403.cn/categories/poetry/" />
+        <category term="诗·歌" scheme="http://atishishui0403.cn/categories/poetry/mypoetry/" />
+        <category term="1.诗" scheme="http://atishishui0403.cn/categories/poetry/mypoetry/course-1/" />
+        <category term="我的诗" scheme="http://atishishui0403.cn/tags/%E6%88%91%E7%9A%84%E8%AF%97/" />
         <updated>2021-08-18T18:05:12.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/poetry/mypoetry/course-2/song-1/</id>
+        <id>http://atishishui0403.cn/poetry/mypoetry/course-2/song-1/</id>
         <title>胭脂妆</title>
-        <link rel="alternate" href="http://yoursite.com/poetry/mypoetry/course-2/song-1/"/>
+        <link rel="alternate" href="http://atishishui0403.cn/poetry/mypoetry/course-2/song-1/"/>
         <content type="html">&lt;iframe frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=&#34;330&#34; height=&#34;86&#34; src=&#34;//music.163.com/outchain/player?type=2&amp;id=1870700736&amp;auto=1&amp;height=66&#34;&gt;&lt;/iframe&gt;
 &lt;hr&gt;
 </content>
-        <category term="诗歌" scheme="http://yoursite.com/categories/poetry/" />
-        <category term="诗·歌" scheme="http://yoursite.com/categories/poetry/mypoetry/" />
-        <category term="2.歌" scheme="http://yoursite.com/categories/poetry/mypoetry/course-2/" />
+        <category term="诗歌" scheme="http://atishishui0403.cn/categories/poetry/" />
+        <category term="诗·歌" scheme="http://atishishui0403.cn/categories/poetry/mypoetry/" />
+        <category term="2.歌" scheme="http://atishishui0403.cn/categories/poetry/mypoetry/course-2/" />
         <updated>2021-08-18T17:41:49.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/poetry/mypoetry/course-1/poetry-1/</id>
+        <id>http://atishishui0403.cn/poetry/mypoetry/course-1/poetry-1/</id>
         <title>阿嚏的小破诗一</title>
-        <link rel="alternate" href="http://yoursite.com/poetry/mypoetry/course-1/poetry-1/"/>
+        <link rel="alternate" href="http://atishishui0403.cn/poetry/mypoetry/course-1/poetry-1/"/>
         <content type="html">&lt;p&gt;你摔了几次跤&lt;br&gt;
 你懂了几次事&lt;br&gt;
 你交了几个朋友&lt;br&gt;
 你做了几次梦&lt;/p&gt;
 &lt;hr&gt;
 </content>
-        <category term="诗歌" scheme="http://yoursite.com/categories/poetry/" />
-        <category term="诗·歌" scheme="http://yoursite.com/categories/poetry/mypoetry/" />
-        <category term="1.诗" scheme="http://yoursite.com/categories/poetry/mypoetry/course-1/" />
-        <category term="我的诗" scheme="http://yoursite.com/tags/%E6%88%91%E7%9A%84%E8%AF%97/" />
+        <category term="诗歌" scheme="http://atishishui0403.cn/categories/poetry/" />
+        <category term="诗·歌" scheme="http://atishishui0403.cn/categories/poetry/mypoetry/" />
+        <category term="1.诗" scheme="http://atishishui0403.cn/categories/poetry/mypoetry/course-1/" />
+        <category term="我的诗" scheme="http://atishishui0403.cn/tags/%E6%88%91%E7%9A%84%E8%AF%97/" />
         <updated>2021-08-18T16:14:49.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/video/weibo/course-2/douyin-1/</id>
+        <id>http://atishishui0403.cn/video/weibo/course-2/douyin-1/</id>
         <title>抖音视频1</title>
-        <link rel="alternate" href="http://yoursite.com/video/weibo/course-2/douyin-1/"/>
+        <link rel="alternate" href="http://atishishui0403.cn/video/weibo/course-2/douyin-1/"/>
         <content type="html">&lt;iframe height=&#34;300&#34; width=&#34;500&#34; src=&#34;//player.bilibili.com/player.html?aid=462399162&amp;bvid=BV1kL411J7Ta&amp;cid=392061251&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
 &lt;hr&gt;
 </content>
-        <category term="视频" scheme="http://yoursite.com/categories/video/" />
-        <category term="作品" scheme="http://yoursite.com/categories/video/weibo/" />
-        <category term="抖音视频" scheme="http://yoursite.com/categories/video/weibo/course-2/" />
-        <category term="抖音视频" scheme="http://yoursite.com/tags/%E6%8A%96%E9%9F%B3%E8%A7%86%E9%A2%91/" />
+        <category term="视频" scheme="http://atishishui0403.cn/categories/video/" />
+        <category term="作品" scheme="http://atishishui0403.cn/categories/video/weibo/" />
+        <category term="抖音视频" scheme="http://atishishui0403.cn/categories/video/weibo/course-2/" />
+        <category term="抖音视频" scheme="http://atishishui0403.cn/tags/%E6%8A%96%E9%9F%B3%E8%A7%86%E9%A2%91/" />
         <updated>2021-08-16T10:04:15.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/video/weibo/course-2/douyin-2/</id>
+        <id>http://atishishui0403.cn/video/weibo/course-2/douyin-2/</id>
         <title>抖音视频2</title>
-        <link rel="alternate" href="http://yoursite.com/video/weibo/course-2/douyin-2/"/>
+        <link rel="alternate" href="http://atishishui0403.cn/video/weibo/course-2/douyin-2/"/>
         <content type="html">&lt;iframe height=&#34;300&#34; width=&#34;500&#34; src=&#34;//player.bilibili.com/player.html?aid=847433944&amp;bvid=BV12L4y1e7tx&amp;cid=392083388&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
 &lt;hr&gt;
 </content>
-        <category term="视频" scheme="http://yoursite.com/categories/video/" />
-        <category term="作品" scheme="http://yoursite.com/categories/video/weibo/" />
-        <category term="抖音视频" scheme="http://yoursite.com/categories/video/weibo/course-2/" />
-        <category term="抖音视频" scheme="http://yoursite.com/tags/%E6%8A%96%E9%9F%B3%E8%A7%86%E9%A2%91/" />
+        <category term="视频" scheme="http://atishishui0403.cn/categories/video/" />
+        <category term="作品" scheme="http://atishishui0403.cn/categories/video/weibo/" />
+        <category term="抖音视频" scheme="http://atishishui0403.cn/categories/video/weibo/course-2/" />
+        <category term="抖音视频" scheme="http://atishishui0403.cn/tags/%E6%8A%96%E9%9F%B3%E8%A7%86%E9%A2%91/" />
         <updated>2021-08-16T10:04:15.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/video/weibo/course-1/weibo-1/</id>
+        <id>http://atishishui0403.cn/video/weibo/course-1/weibo-1/</id>
         <title>微博视频1</title>
-        <link rel="alternate" href="http://yoursite.com/video/weibo/course-1/weibo-1/"/>
+        <link rel="alternate" href="http://atishishui0403.cn/video/weibo/course-1/weibo-1/"/>
         <content type="html">&lt;h4&gt;&lt;div class=&#34;text&#34;&gt;你就是我眼中的喜出望外&lt;/div&gt;&lt;/h4&gt;
 &lt;iframe height=&#34;300&#34; width=&#34;500&#34; src=&#34;//player.bilibili.com/player.html?aid=974901675&amp;bvid=BV1k44y1y7hr&amp;cid=392083233&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
 &lt;hr&gt;
 </content>
-        <category term="视频" scheme="http://yoursite.com/categories/video/" />
-        <category term="作品" scheme="http://yoursite.com/categories/video/weibo/" />
-        <category term="微博视频" scheme="http://yoursite.com/categories/video/weibo/course-1/" />
-        <category term="微博视频" scheme="http://yoursite.com/tags/%E5%BE%AE%E5%8D%9A%E8%A7%86%E9%A2%91/" />
+        <category term="视频" scheme="http://atishishui0403.cn/categories/video/" />
+        <category term="作品" scheme="http://atishishui0403.cn/categories/video/weibo/" />
+        <category term="微博视频" scheme="http://atishishui0403.cn/categories/video/weibo/course-1/" />
+        <category term="微博视频" scheme="http://atishishui0403.cn/tags/%E5%BE%AE%E5%8D%9A%E8%A7%86%E9%A2%91/" />
         <updated>2021-08-15T11:34:23.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/%E5%85%A5%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81/</id>
+        <id>http://atishishui0403.cn/%E5%85%A5%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81/</id>
         <title>入群二维码</title>
-        <link rel="alternate" href="http://yoursite.com/%E5%85%A5%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81/"/>
+        <link rel="alternate" href="http://atishishui0403.cn/%E5%85%A5%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81/"/>
         <content type="html">&lt;h1 id=&#34;入群二维码&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#入群二维码&#34;&gt;#&lt;/a&gt; &lt;strong&gt;&lt;span class=&#34;red&#34;&gt;入&lt;/span&gt;&lt;span class=&#34;yellow&#34;&gt;群&lt;/span&gt;&lt;span class=&#34;green&#34;&gt;二&lt;/span&gt;&lt;span class=&#34;aqua&#34;&gt;维&lt;/span&gt;&lt;span class=&#34;blue&#34;&gt;码&lt;/span&gt;&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://tva1.sinaimg.cn/large/008neO4hly8gtlhmr68qlj60az0frmyb02.jpg&#34; alt&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -105,9 +105,9 @@
         <updated>2021-08-15T09:01:48.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/%E5%85%B3%E4%BA%8E%E6%88%91/</id>
+        <id>http://atishishui0403.cn/%E5%85%B3%E4%BA%8E%E6%88%91/</id>
         <title>关于阿嚏</title>
-        <link rel="alternate" href="http://yoursite.com/%E5%85%B3%E4%BA%8E%E6%88%91/"/>
+        <link rel="alternate" href="http://atishishui0403.cn/%E5%85%B3%E4%BA%8E%E6%88%91/"/>
         <content type="html">&lt;p&gt;主播：阿嚏&lt;br&gt;
 爱好：美食 / 配音 / 追剧&lt;br&gt;
 直播内容：百变声线 / 晚安故事 / 爆梗惊喜 / 有个测试 /“黑幕” 游戏 / 间歇性吃播&lt;br&gt;
@@ -121,7 +121,7 @@
  抖音：阿嚏是谁（aaaati0403）&lt;/p&gt;
 &lt;hr&gt;
 </content>
-        <category term="关于阿嚏" scheme="http://yoursite.com/tags/%E5%85%B3%E4%BA%8E%E9%98%BF%E5%9A%8F/" />
+        <category term="关于阿嚏" scheme="http://atishishui0403.cn/tags/%E5%85%B3%E4%BA%8E%E9%98%BF%E5%9A%8F/" />
         <updated>2021-08-13T08:46:28.000Z</updated>
     </entry>
 </feed>
